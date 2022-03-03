@@ -13,8 +13,11 @@
 1830,202589,20535,9049,3023,7082
 ```
 
+### Clean: [x]
 ---
 
 ### Description
 
 This file contains the population of each of the 5 boros of New York City as reported by the decennial census from 1790 - 2010.
+
+All data is represented as integer values.
